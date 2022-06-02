@@ -24,7 +24,7 @@ class InterfaceManagerClassesInConsole():
 
     
     def chooseOption(self):
-        while not self.option >= 1 and self.option <= 4:
+        while not self.option >= 0 and self.option <= 4:
             option1 = '1 <> {} datos del suscriptor'
             option2 = '2 <> {} datos de la vivienda del suscriptor'
             option3 = '3 <> {} las lecturas de Kilovatios'

@@ -1,4 +1,4 @@
-from fuctions import *
+from fuctions import show2Column
 
 class Subscriber():
     
